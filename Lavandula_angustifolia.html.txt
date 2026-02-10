@@ -6,7 +6,8 @@
 </head>
 <body style="text-align: center; margin-top: 50px;">
     <h1>Lavandula angustifolia</h1>
-    <img src="Lavandula_angustifolia.JPG" alt="Lavandula angustifolia" style="max-width: 80%; height: auto;">
+    <img src="Lavandula_angustifolia.jpg" alt="Lavandula angustifolia" style="max-width: 80%; height: auto;">
 </body>
 </html>
+
 

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>Lavandula angustifolia</title>
+</head>
+<body style="text-align: center; margin-top: 50px;">
+    <h1>Lavandula angustifolia</h1>
+    <img src="Lavandula_angustifolia.jpg" alt="Lavandula angustifolia" style="max-width: 80%; height: auto;">
+</body>
+</html>
